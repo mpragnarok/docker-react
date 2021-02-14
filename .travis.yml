@@ -14,7 +14,7 @@ deploy:
     region: "us-east-2"
     # elastic beanstalk app name
     app: "docker-react"
-    env: "Dockerreact"
+    env: "Dockerreact-env"
     # s3 bucket name
     bucket_name: "elasticbeanstalk-us-east-2-544101413601"
     # elastic beanstalk app name
